@@ -16,9 +16,6 @@
 - **数据库**: MongoDB, PostgreSQL, MySQL
 - **工具**: Git, Docker, AWS基础
 
-### 💡 精选项目
-访问我的[项目页面](../projects/README.zh.md)查看我的作品！
-
 ### 📫 联系方式
 - LinkedIn: [即将推出](#)
 - 邮箱: [即将推出](#)
