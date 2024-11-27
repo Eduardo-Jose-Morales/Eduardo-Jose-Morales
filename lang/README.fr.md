@@ -16,9 +16,6 @@ Je suis un développeur full-stack junior passionné du Venezuela, spécialisé 
 - **Bases de données**: MongoDB, PostgreSQL, MySQL
 - **Outils**: Git, Docker, Bases AWS
 
-### 💡 Projets Phares
-Visitez ma [Page de Projets](../projects/README.fr.md) pour voir mon travail !
-
 ### 📫 Contact
 - LinkedIn: [Bientôt disponible](#)
 - Email: [Bientôt disponible](#)
