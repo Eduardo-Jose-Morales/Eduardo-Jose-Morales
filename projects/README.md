@@ -1,7 +1,5 @@
 # Projects Portfolio 🚀
 
-## Featured Projects
-
 ### 🌟 Weather Dashboard
 - **Tech Stack**: React, OpenWeather API, TailwindCSS
 - [View Project](#) | [Code](#)
