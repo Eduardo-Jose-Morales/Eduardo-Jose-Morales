@@ -1,7 +1,5 @@
 # Projects Portfolio 🚀
 
-[Ver en Español](./README.es.md) | [View in English](./README.md)
-
 ## Featured Projects
 
 ### 🌟 Weather Dashboard
