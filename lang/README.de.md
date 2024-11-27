@@ -16,9 +16,6 @@ Ich bin ein leidenschaftlicher Junior Full-Stack-Entwickler aus Venezuela, spezi
 - **Datenbanken**: MongoDB, PostgreSQL, MySQL
 - **Werkzeuge**: Git, Docker, AWS-Grundlagen
 
-### 💡 Ausgewählte Projekte
-Besuchen Sie meine [Projektseite](../projects/README.de.md), um meine Arbeit zu sehen!
-
 ### 📫 Kontakt
 - LinkedIn: [Demnächst verfügbar](#)
 - E-Mail: [Demnächst verfügbar](#)
