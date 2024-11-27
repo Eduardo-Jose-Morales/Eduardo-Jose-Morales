@@ -16,9 +16,6 @@
 - **データベース**: MongoDB, PostgreSQL, MySQL
 - **ツール**: Git, Docker, AWS基礎
 
-### 💡 注目プロジェクト
-私の[プロジェクトページ](../projects/README.jp.md)をご覧ください！
-
 ### 📫 連絡先
 - LinkedIn: [準備中](#)
 - メール: [準備中](#)
