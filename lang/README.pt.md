@@ -16,9 +16,6 @@ Sou um desenvolvedor full-stack júnior apaixonado da Venezuela, focado nos ecos
 - **Bancos de Dados**: MongoDB, PostgreSQL, MySQL
 - **Ferramentas**: Git, Docker, Fundamentos AWS
 
-### 💡 Projetos em Destaque
-Visite minha [Página de Projetos](../projects/README.pt.md) para ver meu trabalho!
-
 ### 📫 Contato
 - LinkedIn: [Em breve](#)
 - Email: [Em breve](#)
