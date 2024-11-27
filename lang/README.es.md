@@ -1,20 +1,25 @@
-# Eduardo José González Morales
+# Eduardo José González Morales | Portfolio 🚀
 
-[English](../README.md) | [Español](./README.es.md)
+<div align="center">
 
-## Sobre Mí 👋
+[English](../README.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [中文](./README.zh.md) | [日本語](./README.jp.md)
 
-Desarrollador Full-Stack Junior de Venezuela con 3 años de experiencia autodidacta en desarrollo web. Apasionado por crear código limpio y eficiente, y por aprender nuevas tecnologías.
+</div>
 
-### Habilidades 🛠
-- JavaScript (React, Vue, Node.js)
-- Python (Django, Flask)
-- HTML/CSS
-- Bases de datos SQL/NoSQL
+## ¡Bienvenido a mi Trayectoria como Desarrollador! 👋
 
-### Contacto 📫
-- GitHub: [Tu GitHub]
-- LinkedIn: [Tu LinkedIn]
-- Email: [Tu Email]
+Soy un apasionado desarrollador full-stack junior de Venezuela, enfocado en los ecosistemas de JavaScript y Python. Si bien estoy comenzando mi trayectoria profesional, he dedicado tres años al dominio de frameworks y tecnologías de desarrollo web moderno.
 
-*¡Actualmente buscando mi primera oportunidad profesional en desarrollo web!*
+### 🛠 Habilidades Técnicas
+- **Frontend**: React.js, Vue.js, Angular, HTML5/CSS3, JavaScript/TypeScript
+- **Backend**: Node.js, Python, Django, Flask, Express.js
+- **Bases de Datos**: MongoDB, PostgreSQL, MySQL
+- **Herramientas**: Git, Docker, Fundamentos de AWS
+
+### 📫 Contacto
+- LinkedIn: [Próximamente](#)
+- Correo: [Próximamente](#)
+- Portafolio: [Próximamente](#)
+
+---
+*Este portafolio es una colección creciente de mi trayectoria en el desarrollo web. ¡Aunque pueda ser junior en experiencia profesional, soy senior en entusiasmo y dedicación por aprender!*
