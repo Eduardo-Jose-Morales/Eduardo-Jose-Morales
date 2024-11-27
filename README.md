@@ -16,9 +16,6 @@ I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScr
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, AWS Basics
 
-### 💡 Featured Projects
-Visit my [Projects Page](./projects/README.md) to see my work!
-
 ### 📫 Contact
 - LinkedIn: [Coming Soon](#)
 - Email: [Coming Soon](#)
