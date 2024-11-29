@@ -17,7 +17,7 @@ Soy un apasionado desarrollador full-stack junior de Venezuela, enfocado en los 
 - **Herramientas**: Git, Docker, Fundamentos de AWS
 
 ### 📫 Contacto
-- LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
+- LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/es" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/es</a>
 - Email:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
 - Portfolio:  <a href="https://eduardo-morales-76e79-24b67.web.app/">https://eduardo-morales-76e79-24b67.web.app/</a>
 
