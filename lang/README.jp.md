@@ -19,7 +19,7 @@
 ### 📫 連絡先
 - LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
 - メール:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
-- ポートフォリオ:  <a href="https://eduardo-morales-76e79-24b67.web.app/">https://eduardo-morales-76e79-24b67.web.app/</a>
+- ポートフォリオ:  <a href="https://eduardo-morales-76e79-24b67.web.app/jp">https://eduardo-morales-76e79-24b67.web.app/jp</a>
 
 ---
 *このポートフォリオは私のWeb開発の旅の成長記録です。職務経験ではジュニアかもしれませんが、学習への熱意と献身度ではシニアです！*
