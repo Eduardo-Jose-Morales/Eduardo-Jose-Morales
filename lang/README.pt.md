@@ -17,9 +17,9 @@ Sou um desenvolvedor full-stack júnior apaixonado da Venezuela, focado nos ecos
 - **Ferramentas**: Git, Docker, Fundamentos AWS
 
 ### 📫 Contato
-- LinkedIn: [Em breve](#)
-- Email: [Em breve](#)
-- Portfólio: [Em breve](#)
+- LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
+- Email:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
+- Portfolio:  <a href="https://eduardo-morales-76e79-24b67.web.app/pt">https://eduardo-morales-76e79-24b67.web.app/pt</a>
 
 ---
 *Este portfólio é uma coleção crescente da minha jornada no desenvolvimento web. Embora eu possa ser júnior em experiência prof
