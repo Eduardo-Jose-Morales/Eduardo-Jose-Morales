@@ -19,7 +19,7 @@ I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScr
 ### 📫 Contact
 - LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
 - Email:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
-- Portfolio: 
+- Portfolio:  <a href="https://eduardo-morales-76e79-24b67.web.app/">https://eduardo-morales-76e79-24b67.web.app/</a>
 
 ---
 *This portfolio is a growing collection of my web development journey. While I may be junior in professional experience, I'm senior in enthusiasm and dedication to learning!*
