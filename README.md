@@ -17,8 +17,8 @@ I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScr
 - **Tools**: Git, Docker, AWS Basics
 
 ### 📫 Contact
-- LinkedIn: <a href="mailto:https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
-- Email: 
+- LinkedIn: <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
+- Email: <a href="mailto:eduardojgmorales@hotmail.com"> </a>
 - Portfolio: 
 
 ---
