@@ -19,6 +19,6 @@
 ### 📫 联系方式
 - LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
 - 邮箱:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
-- 作品集:  <a href="https://eduardo-morales-76e79-24b67.web.app/">https://eduardo-morales-76e79-24b67.web.app/</a>
+- 作品集:  <a href="https://eduardo-morales-76e79-24b67.web.app/zh">https://eduardo-morales-76e79-24b67.web.app/zh</a>
 ---
 *这个作品集展示了我在Web开发journey上的成长。虽然我在专业经验上是初级开发者，但在学习热情和投入度上我是高级的！*
